@@ -1,0 +1,11 @@
+#!/bin/bash
+#kasutajate tervitus “Tere, kasutajanimi !”
+Tere $USERBANE
+ echo "Home f the current user is: $HOME"
+
+$USERNAME=KASUTAJA
+echo Tere $username 
+
+
+echo "Hi! Current date and time - $(date "+%d-%m-%Y %H:%M:%S")"
+
